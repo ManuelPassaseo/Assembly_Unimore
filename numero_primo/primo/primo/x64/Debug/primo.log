@@ -1,0 +1,12 @@
+﻿  Assembling file.asm...
+file.asm(1): error A2008: syntax error : .
+file.asm(2): error A2008: syntax error : .
+file.asm(6): error A2070: invalid instruction operands
+file.asm(8): error A2070: invalid instruction operands
+file.asm(9): error A2070: invalid instruction operands
+file.asm(10): error A2070: invalid instruction operands
+file.asm(18): error A2070: invalid instruction operands
+file.asm(19): error A2070: invalid instruction operands
+file.asm(20): error A2070: invalid instruction operands
+file.asm(22): error A2070: invalid instruction operands
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\file.obj" /W3 /errorReport:prompt  /Tafile.asm" exited with code 1.

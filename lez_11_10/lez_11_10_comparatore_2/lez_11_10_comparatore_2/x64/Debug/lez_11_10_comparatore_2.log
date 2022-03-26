@@ -1,0 +1,3 @@
+﻿  main.c
+main.obj : error LNK2019: unresolved external symbol compare2 referenced in function main
+C:\Users\manue\OneDrive\Desktop\UNI\Lab_esercizi\lez_11_10\lez_11_10_comparatore_2\x64\Debug\lez_11_10_comparatore_2.exe : fatal error LNK1120: 1 unresolved externals

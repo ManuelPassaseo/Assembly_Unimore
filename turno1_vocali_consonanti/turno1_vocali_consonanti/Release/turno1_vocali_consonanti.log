@@ -1,0 +1,3 @@
+﻿  main.c
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  turno1_vocali_consonanti.vcxproj -> C:\Users\manue\OneDrive\Desktop\UNI\Lab_esercizi\turno1_vocali_consonanti\Release\turno1_vocali_consonanti.exe

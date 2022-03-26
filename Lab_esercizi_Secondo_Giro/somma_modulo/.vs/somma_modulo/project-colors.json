@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cbbdd06c-be26-4f08-9e82-eb1c40dc10a5": {
+      "ProjectGuid": "cbbdd06c-be26-4f08-9e82-eb1c40dc10a5",
+      "DisplayName": "somma_modulo",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "13a55de0-466b-4241-aea5-ffb7e25e3da5": {
+      "ProjectGuid": "13a55de0-466b-4241-aea5-ffb7e25e3da5",
+      "DisplayName": "lez_8_11_sommalungstr",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

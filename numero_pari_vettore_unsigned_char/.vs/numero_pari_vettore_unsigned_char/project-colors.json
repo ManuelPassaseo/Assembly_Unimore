@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d5ec80d-3bcc-4b2c-9318-78180e0bd8be": {
+      "ProjectGuid": "2d5ec80d-3bcc-4b2c-9318-78180e0bd8be",
+      "DisplayName": "numero_pari_vettore_unsigned_char",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

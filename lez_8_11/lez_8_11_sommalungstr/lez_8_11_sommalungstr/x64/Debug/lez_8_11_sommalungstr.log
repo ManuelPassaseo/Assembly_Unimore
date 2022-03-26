@@ -1,0 +1,3 @@
+﻿  main.c
+main.obj : error LNK2019: unresolved external symbol sommalungstr referenced in function main
+C:\Users\manue\OneDrive\Desktop\UNI\Lab_esercizi\lez_8_11\lez_8_11_sommalungstr\x64\Debug\lez_8_11_sommalungstr.exe : fatal error LNK1120: 1 unresolved externals

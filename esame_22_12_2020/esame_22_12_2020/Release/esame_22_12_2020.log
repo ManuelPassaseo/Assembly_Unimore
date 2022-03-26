@@ -1,0 +1,3 @@
+﻿  main.c
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  esame_22_12_2020.vcxproj -> C:\Users\manue\OneDrive\Desktop\UNI\Calcolatori\LAB\Lab_esercizi\esame_22_12_2020\Release\esame_22_12_2020.exe

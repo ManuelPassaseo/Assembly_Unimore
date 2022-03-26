@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2019: unresolved external symbol somma_vettore referenced in function main
+C:\Users\manue\OneDrive\Desktop\UNI\Lab_esercizi\lez_8_10\lez_8_10_2021_sommavettore\x64\Debug\lez_8_10_2021_sommavettore.exe : fatal error LNK1120: 1 unresolved externals

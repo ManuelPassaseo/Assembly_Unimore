@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cc37af46-faef-4894-9df0-34112a1ec120": {
+      "ProjectGuid": "cc37af46-faef-4894-9df0-34112a1ec120",
+      "DisplayName": "fattoriale",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

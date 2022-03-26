@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1087,5): error MSB6006: "link.exe" exited with code 1120.
+main.obj : error LNK2019: unresolved external symbol numero referenced in function main
+C:\Users\manue\OneDrive\Desktop\UNI\Calcolatori\LAB\Lab_esercizi\Lab_esercizi_Secondo_Giro\cerca_combinazioni_numero\x64\Debug\cerca_combinazioni_numero.exe : fatal error LNK1120: 1 unresolved externals

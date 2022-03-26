@@ -1,0 +1,3 @@
+﻿  main.c
+main.obj : error LNK2019: unresolved external symbol media referenced in function main
+C:\Users\manue\OneDrive\Desktop\UNI\Lab_esercizi\media\x64\Debug\media.exe : fatal error LNK1120: 1 unresolved externals

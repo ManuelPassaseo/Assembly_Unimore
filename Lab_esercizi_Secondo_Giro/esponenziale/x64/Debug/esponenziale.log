@@ -1,0 +1,3 @@
+﻿  main.c
+main.obj : error LNK2019: unresolved external symbol esponenziale referenced in function main
+C:\Users\manue\OneDrive\Desktop\UNI\Calcolatori\LAB\Lab_esercizi\Lab_esercizi_Secondo_Giro\esponenziale\x64\Debug\esponenziale.exe : fatal error LNK1120: 1 unresolved externals
